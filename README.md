@@ -19,16 +19,18 @@
 ### Evolução das Lands
 Para evoluir as lands é necessário acumular EXP. Você irá ganhar EXP ao colher itens na própria land. Cada land tem sua própria contagem de EXP.
 
-#### Cada item colhido fornece uma taxa de EXP.
+#### Quantidade de espaços e EXP necessário para cada level de land
+* L1: 10 espaços - 240 exp
+* L2: 14 espaços - 336 exp
+* L3: 18 espaços - 432 exp
+* L4: 22 espaços - 528 exp
+* L5: 26 espaços - 624 exp
+
+#### Cada item colhido fornece uma taxa de EXP
 * Cabbage: 6 EXP
 * Apple: 12 EXP
 * Fish: 18 EXP
 * Cow: 24 EXP
 
-#### EXP necessário para cada level de land
-* L1: 240
-* L2: ?
-* L3: 336
-* L4: 432
-* L5: 528
+
 
